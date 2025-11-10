@@ -65,7 +65,7 @@
     "cheerio": "^1.1.2"
   },
   "devDependencies": {
-    "@types/node": "^20.19.24",
+    "@types/node": "^24.10.0",
     "@typescript-eslint/eslint-plugin": "^8.46.3",
     "@typescript-eslint/parser": "^8.46.3",
     "@vitest/coverage-v8": "^2.1.8",

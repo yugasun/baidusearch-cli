@@ -30,7 +30,8 @@
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "bin": {
-    "baidusearch": "dist/cli.js"
+    "baidusearch": "dist/cli.js",
+    "baidusearch-cli": "dist/cli.js"
   },
   "directories": {
     "example": "examples"
